@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(223, 246, 253);
+    width: 100%;
+}
+.pic {
+    margin-top: 20px;
+    margin-left: 152px;
+    height: 550px;
+    width: 405px;
+    box-shadow: 2px 5px 50px #777;
+}
+.para {
+    padding-top: 35px;
+    margin-left: 30px;
+    margin-top: -505px;
+    width: 90%;
+    text-align: justify;
+}
+hr {
+    margin-left: 60px;
+    margin-right: 80px;
+}
+.sider {
+    margin-right: 1190px;
+    padding-right: 65px;
+    margin-top: -515px;
+    margin-left: 94px;
+}
+.rightportion {
+    margin-top: -495px;
+    padding-top: 495px;
+    background-color: rgb(245, 245, 245);
+    margin-left: 550px;
+    width: 45%;
+}   
+.head1 {
+    width: 35%;
+    margin-left: 580px;
+    margin-top: -300px;
+}
+.head2 {
+    width: 50%;
+}
+.head3 {
+    width: 35%;
+    margin-left: 900px;
+    margin-top: -218px;
+}
+.head4 {
+    width: 50%;
+}
